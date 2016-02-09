@@ -1,6 +1,7 @@
 # Bot virtualbrowser #
 
-Browser headless veloce ed intuitivo, con interfaccia simile a quella dei browser gui - libreria
+Browser headless veloce ed intuitivo, con interfaccia simile a quella dei browser gui - 
+libreria in python
 
 
 Questa è in realtà un estensione della libreria [human-virtualbrowser](https://github.com/matteoalessiocarrara/human-virtualbrowser), 
